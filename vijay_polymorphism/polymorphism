@@ -1,0 +1,19 @@
+What is polymorphism ? (iske liy parent child relationship hona jruri h)
+(method bnayege or fir unko object k madayam se call krenge)
+ek kam ko hum alag alag prkar se ksse krenge usko polymorphism khenge.
+poly many , morphism forms
+real life example water , human can take many forms (employee,broter,son,husband,customer)
+polymorphisms in java means that object can take many forms in it 
+
+
+types of polymorphism : method overloading , method overriding
+method overloading: isme hum diffrent parameters use krte hain with same name of the method
+method overriding : can only be achieved in a parent child relationship
+
+parent child examples : 
+1) water (parent) (methods : state , colour, smell,ph level,movenment,origin,tranparent,temprature
+child : drinking , bathing, severage,farming,ice cubes, water vapour,rain,glaciers,springs
+2) shape (methods no of edge,no of points,angle,no of face,area,circumference,volume,2d/3d,
+child triangle,square,circle,rectangle,trapezium,cuboid,cube,sphere,cylinder,line,dot,hemisphere,
+3) vehicle ( methods : engine,tyre,seats,fuel type, speed,have roof,use of vehicle,transportaion mode
+chid:  car,bus,scooter,bike,aeroplane,ship,tank,boat
